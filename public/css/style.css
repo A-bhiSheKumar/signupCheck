@@ -1,0 +1,30 @@
+html,
+body {
+  height: 100%;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 1rem;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.top {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.middle{
+ border-radius: 0;
+ margin-bottom: -1px;
+}
+
+.bottom{
+   
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+}
